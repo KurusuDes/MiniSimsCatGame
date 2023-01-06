@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 57254e78a9681d04b85fbd922b49c596, type: 3}
+  m_Name: ItemHat1
+  m_EditorClassIdentifier: 
+  _itemType: 2
+  _itemID: 3
+  _itemName: Mage
+  _itemCost: 100
+  _itemSellPrice: 80
+  _itemSprite: {fileID: 21300000, guid: b5729d19f78436e4d9ad6e792506caaa, type: 3}
+  scaleTop: {x: 1, y: 1, z: 1}
+  scaleDown: {x: 1, y: 1, z: 1}
+  scaleRight: {x: 0.5, y: 1, z: 1}
+  scaleLeft: {x: 0.5, y: 1, z: 1}

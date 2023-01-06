@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 57254e78a9681d04b85fbd922b49c596, type: 3}
+  m_Name: ItemAnimal3
+  m_EditorClassIdentifier: 
+  _itemType: 0
+  _itemID: 0
+  _itemName: Frog
+  _itemCost: 300
+  _itemSellPrice: 280
+  _itemSprite: {fileID: -526432287, guid: ba0e85b6108625a4b82b77a7abd64636, type: 3}
+  scaleTop: {x: 1, y: 1, z: 1}
+  scaleDown: {x: -1, y: 1, z: 1}
+  scaleRight: {x: 1, y: 1, z: 1}
+  scaleLeft: {x: -1, y: 1, z: 1}
